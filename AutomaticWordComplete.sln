@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutomaticWordComplete", "AutomaticWordComplete\AutomaticWordComplete.csproj", "{59C067D6-32AB-4B87-8900-6C167663F586}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59C067D6-32AB-4B87-8900-6C167663F586}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59C067D6-32AB-4B87-8900-6C167663F586}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59C067D6-32AB-4B87-8900-6C167663F586}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59C067D6-32AB-4B87-8900-6C167663F586}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4A56524-80C4-47C6-9D61-AB486990C97C}
+	EndGlobalSection
+EndGlobal
